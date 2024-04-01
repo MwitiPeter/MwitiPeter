@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MwitiPeter
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js 
-- 💞️ I’m looking to collaborate on HTML,CSS and Javascript projects
+- 💞️ I'm currently doing MERN stack development
+- 👨‍💻 Looking forward to work with you
 - 📫 you can reach me on my email mwitipet@gmail.com 
 
 <!---
