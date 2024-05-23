@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @MwitiPeter
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js 
-- 💞️ I'm currently doing MERN stack development
-- 👨‍💻 Looking forward to work with you
-- 📫 you can reach me on my email mwitipet@gmail.com 
+- 👋  Hi, I’m @MwitiPeter
+- 👀  I’m a Web Developer
+- 🌱  Certified Resposive Web Designer freecodecamp 
+- 💞️  Currently learning softwaredevelopment PowerLearnProject
+- 🕵️‍♀️  Learnng AI essentianls in ALx_Africa
+- 👨‍💻  Looking forward to work with you
+- 📫  you can reach me on my email mwitipet@gmail.com 
 
 <!---
 MwitiPeter/MwitiPeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
