@@ -2,7 +2,6 @@
 - 👀  I’m a Web Developer
 - 🌱  Certified Resposive Web Designer freecodecamp 
 - 💞️  Currently learning softwaredevelopment PowerLearnProject
-- 🕵️‍♀️  Learnng AI essentianls in ALx_Africa
 - 👨‍💻  Looking forward to work with you
 - 📫  you can reach me on my email mwitipet@gmail.com 
 
