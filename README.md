@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @MwitiPeter
-- 👀  I’m a Web Developer
+- 👀  Front-end and Back-end Development
 - 🌱  Certified Resposive Web Designer freecodecamp 
 - 💞️  Currently learning softwaredevelopment PowerLearnProject
 - 🕵🏿  BSc Information  Technology University of Embu
