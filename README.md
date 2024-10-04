@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @MwitiPeter
-- 👀  Front-end (Html,Css,Sass,Reactjs)
-- ♨ Back-end Development(Nodejs,Expressjs,Python,Django,Mysql,MomgoDB)
+- 👀  Front-end (Html,Css,JavaScript)
+- ♨ Back-end Development(Nodejs,Expressjs,Python,Django,Mysql,MongoDB,Postman,Git&Github)
 - 🌱  Certified Resposive Web Designer freecodecamp 
 - 💞️  Certified in Software Development PowerLearnProject
 - 🕵🏿  BSc Information  Technology University of Embu
