@@ -44,7 +44,7 @@
 ### 💘 [**mwiDate**](https://github.com/MwitiPeter/mwiDate)
 > A modern dating platform built with React, Node.js, MongoDB, and full user authentication. Designed to connect people through smart matching and seamless UX.
 
-### 💬 [**Chat Application** *(in development)*](https://github.com/MwitiPeter/chat-app)
+### 💬 [**Chat Application**](https://github.com/MwitiPeter/chat-app)
 > A real-time messaging app built with socket.io and Node.js for dynamic, fast, and intuitive communication.
 
 ### 💼 [**Mwiti Bakers**](https://github.com/MwitiPeter/mwiti-bakers)
@@ -71,7 +71,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-mwiti-muchai/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MwitiPeter)  
 📧 Email: [mwitipet@gmail.com](mailto:mwitipet@gmail.com)  
-🌐 Portfolio: [Visit Website](https://mwitipeter.github.io/may-2024-web-hackathon-1/)
 
 ---
 
