@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Peter Mwiti Muchai (@MwitiPeter)</h1>
-<p align="center">💻 Web Developer | 🌐 Tech Enthusiast | 🎯 Solution Builder | 🇰🇪 Based in Kenya</p>
+<p align="center">💻 Full-Stack Web Developer | 🌐 Tech Innovator | 🎯 Solution Builder | 🇰🇪 Kenya</p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 BSc Information Technology — **University of Embu**  
 - 🔭 Currently building **mwiDate** 💘 and a **real-time Chat App** 💬  
-- 🌱 I love solving real-world problems with code  
-- 💬 Ask me about: JavaScript, React, Node.js, MongoDB, Express, MySQL, and more  
-- 🚀 Future goal: Build scalable software that impacts lives globally
+- 🌱 I love solving real-world problems using modern web technologies  
+- 💬 Ask me about: React, Node.js, MongoDB, MySQL, Authentication, APIs, and scalable app development  
+- 🚀 Future goal: Build scalable, global-impact software and tech-driven businesses
 
 ---
 
@@ -32,39 +32,44 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
+### 🔐 Authentication & Security
+- ✅ MERN Authentication (JWT, bcrypt.js, session & token handling)  
+- 🔒 Clerk Auth, Firebase Auth  
+- 🛡️ Secure API creation using middleware and token-based access control
+
 ---
 
 ## 🚀 Highlight Projects
 
-### 💘 [**mwiDate**](#)
-> A modern dating platform built with React, Node.js, and MongoDB. Connects people through elegant design and smooth user experience.  
+### 💘 [**mwiDate**](https://github.com/MwitiPeter/mwiDate)
+> A modern dating platform built with React, Node.js, MongoDB, and full user authentication. Designed to connect people through smart matching and seamless UX.
 
-### 💬 **Chat Application** *(in development)*  
-> A real-time messaging app using sockets. Built for fast, private, and intuitive communication.
+### 💬 [**Chat Application** *(in development)*](https://github.com/MwitiPeter/chat-app)
+> A real-time messaging app built with socket.io and Node.js for dynamic, fast, and intuitive communication.
 
-### 💼 **Mwiti Bakers**  
-> Founder of a bakery business operating in Uasin Gishu, Embu & Nairobi. Focused on scalable operations using tech and marketing automation.
+### 💼 [**Mwiti Bakers**](https://github.com/MwitiPeter/mwiti-bakers)
+> A tech-enhanced bakery brand operating in multiple counties with smart inventory and client management systems.
 
-### 🔐 [**Finance_Yako**](#)  
-> A personal finance tracker. Built with MongoDB, Clerk Auth, and React — to help users manage budgets with security and ease.
+### 🔐 [**Finance_Yako**](https://github.com/MwitiPeter/finance_yako)
+> A secure finance tracker that helps users monitor income and expenses. Built with MongoDB, Clerk Auth, and Vite.
 
-### 🌍 **Social Justice Hackathon Project**  
-> Job search platform for people with limited qualifications. Finalist in the Power Learn Project Hackathon.  
+### 🌍 [**Social Justice Hackathon Project**](https://github.com/MwitiPeter/roirjobsearch)
+> A job search platform created for people with minimal qualifications. Recognized in the Power Learn Project Hackathon.
 
-### 🛍️ **E-Commerce (MEAN Stack)**  
-> Full-stack app using Angular, Node.js, MongoDB, Redis & Cloudinary.
+### 🛍️ [**E-Commerce (MEAN Stack)**](https://github.com/MwitiPeter/ecommerce-mean)
+> Full-stack e-commerce website using Angular, Node.js, MongoDB, Redis, and Cloudinary with secure login & admin features.
 
 ---
 
 ## 🏅 Certifications
-- ✅ **Responsive Web Design** – freeCodeCamp  
-- ✅ **Software Development Certificate** – Power Learn Project  
+- 📜 **Responsive Web Design** – freeCodeCamp  
+- 📜 **Software Development** – Power Learn Project  
 
 ---
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-mwiti-muchai/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MwitiPeter)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MwitiPeter)  
 📧 Email: [mwitipet@gmail.com](mailto:mwitipet@gmail.com)  
 🌐 Portfolio: [Visit Website](https://mwitipeter.github.io/may-2024-web-hackathon-1/)
 
