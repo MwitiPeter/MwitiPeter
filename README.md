@@ -5,7 +5,6 @@
 
 ## 👨‍💻 About Me
 - 🎓 BSc Information Technology — **University of Embu**  
-- 🔭 Currently building **mwiDate** 💘 and a **real-time Chat App** 💬  
 - 🌱 I love solving real-world problems using modern web technologies  
 - 💬 Ask me about: React, Node.js, MongoDB, MySQL, Authentication, APIs, and scalable app development  
 - 🚀 Future goal: Build scalable, global-impact software and tech-driven businesses
